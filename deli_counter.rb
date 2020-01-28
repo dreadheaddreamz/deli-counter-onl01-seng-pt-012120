@@ -14,7 +14,7 @@ end
 
 def take_a_number(deli, person)
   deli << person
-  puts "welcome, #{person}. 
+  puts "welcome, #{person}. You are number #{deli.index(person
 
 end
 
