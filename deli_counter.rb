@@ -14,9 +14,12 @@ end
 
 def take_a_number(deli, person)
   deli << person
-  puts "welcome, #{person}. You are number #{deli.index(person
+  puts "welcome, #{person}. You are number #{deli.index(person) + 1}"
+  
+  end
 
 end
 
 def now_serving()
-  .index(person)} in line."
+end
+  
